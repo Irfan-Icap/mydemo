@@ -32,10 +32,7 @@
 							<Column id="column2">
 								<header>
 									<Label id="label2" text="field2"/>
-<<<<<<< HEAD
 									
-=======
->>>>>>> branch 'master' of https://github.com/Irfan-Icap/mydemo.git
 								</header>
 							</Column>
 						</columns>
